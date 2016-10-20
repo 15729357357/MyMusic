@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\workspaces\\AndroidStudioProjects\\MyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\workspaces\\AndroidStudioProjects\\MyMusic\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspaces\\AndroidStudioProjects\\MyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "D:\\workspaces\\AndroidStudioProjects\\MyMusic\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    }
+]

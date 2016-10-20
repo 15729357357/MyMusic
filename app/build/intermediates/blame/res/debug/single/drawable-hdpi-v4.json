@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\workspaces\\AndroidStudioProjects\\MyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image_splash_background.jpg",
+        "source": "D:\\workspaces\\AndroidStudioProjects\\MyMusic\\app\\src\\main\\res\\drawable-hdpi\\image_splash_background.jpg"
+    },
+    {
+        "merged": "D:\\workspaces\\AndroidStudioProjects\\MyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back.jpg",
+        "source": "D:\\workspaces\\AndroidStudioProjects\\MyMusic\\app\\src\\main\\res\\drawable-hdpi\\back.jpg"
+    },
+    {
+        "merged": "D:\\workspaces\\AndroidStudioProjects\\MyMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.jpg",
+        "source": "D:\\workspaces\\AndroidStudioProjects\\MyMusic\\app\\src\\main\\res\\drawable-hdpi\\bg.jpg"
+    }
+]
